@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "59021085466",
+    "firebase_url": "https://my-portifolio-ac6cd-default-rtdb.firebaseio.com",
+    "project_id": "my-portifolio-ac6cd",
+    "storage_bucket": "my-portifolio-ac6cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59021085466:android:8ac632dbe72511539b3aa3",
+        "android_client_info": {
+          "package_name": "com.example.my_portifolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF6e2wBBLZYarEdfTJn9SfGncfoCGH2H4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
